@@ -1,0 +1,6 @@
+D:\Clients\Self\Knight\Knight\bin\Debug\Knight.exe.config
+D:\Clients\Self\Knight\Knight\bin\Debug\Knight.exe
+D:\Clients\Self\Knight\Knight\bin\Debug\Knight.pdb
+D:\Clients\Self\Knight\Knight\obj\Debug\Knight.csprojResolveAssemblyReference.cache
+D:\Clients\Self\Knight\Knight\obj\Debug\Knight.exe
+D:\Clients\Self\Knight\Knight\obj\Debug\Knight.pdb
